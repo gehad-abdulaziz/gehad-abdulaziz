@@ -4,9 +4,9 @@
 
 
 ## 💫 About Me
-🎓 I am a **Computer Science student at Helwan University** with a strong foundation in **data structures, object-oriented programming (OOP), and algorithms**.  
-💻 I have honed my skills in **web development**, specializing in **front-end technologies** and some **back-end development with PHP**.  
-🚀 I have worked on various **projects**, including:  
+#### I am a **Computer Science student at Helwan University** with a strong foundation in **data structures, object-oriented programming (OOP), and algorithms**.  
+ #### I have honed my skills in **web development**, specializing in **front-end technologies** and some **back-end development with PHP**.  
+#### I have worked on various **projects**, including:  
   - A **hospital website** 🏥  
   - A **furniture store website** 🛋️  
   - An **informational site about Egypt** 🇪🇬  
