@@ -3,7 +3,7 @@
 </p>
 
 
-## 💫 About Me
+##  About Me
 #### I am a **Computer Science student at Helwan University** with a strong foundation in **data structures, object-oriented programming (OOP), and algorithms**.  
  #### I have honed my skills in **web development**, specializing in **front-end technologies** and some **back-end development with PHP**.  
 #### I have worked on various **projects**, including:  
@@ -15,7 +15,7 @@ I am passionate about **hard work, time management, and precision** in everythin
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://instagram.com/xg_e52"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/gehad-abdulaziz-228973287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -23,7 +23,7 @@ I am passionate about **hard work, time management, and precision** in everythin
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -39,7 +39,7 @@ I am passionate about **hard work, time management, and precision** in everythin
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p> 
