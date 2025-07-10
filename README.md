@@ -14,7 +14,11 @@
 I am passionate about **hard work, time management, and precision** in everything I do. 💪  
 
 ---
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=gehad-abdulaziz&label=Profile%20views&color=0e75b6&style=flat" alt="gehad-abdulaziz" /> 
+</p>
 
+---
 ## Connect With Me
 <p align="center">
   <a href="https://instagram.com/xg_e52"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
