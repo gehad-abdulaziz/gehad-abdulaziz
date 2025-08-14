@@ -5,8 +5,9 @@
   - A **hospital website** 🏥  
   - A **furniture store website** 🛋️  
   - An **informational site about Egypt** 🇪🇬  
-  - A **women's supermarket website (JSMG)** 🛒♀️  
-
+  - A **women's supermarket website (JSMG)** 🛒♀️
+  - A **Landing Page using Tailwind CSS** 🌐
+  - A **Mini Project using React** ⚛️
 I am passionate about **hard work, time management, and precision** in everything I do. 💪  
 
 ---
@@ -23,14 +24,13 @@ I am passionate about **hard work, time management, and precision** in everythin
 </p>
 
 ---
-
-##  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
@@ -41,6 +41,7 @@ I am passionate about **hard work, time management, and precision** in everythin
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
+
 
 ---
 
