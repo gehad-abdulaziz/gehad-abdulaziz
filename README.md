@@ -8,6 +8,7 @@
   - A **women's supermarket website (JSMG)** 🛒♀️
   - A **Landing Page using Tailwind CSS** 🌐
   - A **Mini Project using React** ⚛️
+    
 I am passionate about **hard work, time management, and precision** in everything I do. 💪  
 
 ---
