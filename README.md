@@ -46,11 +46,12 @@ I am passionate about **hard work, time management, and precision** in everythin
 
 
 ---
-## Skills Usage Pie Chart
+
 ---
+## Skills Usage Pie Chart
 <p align="center">
-  <!-- رابط QuickChart مع URL encoding -->
-  <img src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'PHP'%2C'HTML'%2C'CSS'%2C'JavaScript'%2C'React'%2C'MySQL'%2C'Bootstrap'%2C'Tailwind%20CSS'%2C'Python'%2C'C'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Usage'%2Cdata%3A%5B20%2C10%2C10%2C10%2C10%2C10%2C5%2C5%2C10%2C10%5D%2CbackgroundColor%3A%5B'%23777BB4'%2C'%23E34F26'%2C'%231572B6'%2C'%23F7DF1E'%2C'%2361DAFB'%2C'%23005C84'%2C'%23563D7C'%2C'%2338B2AC'%2C'%233776AB'%2C'%2300599C'%5D%7D%5D%7D%7D" alt="Skills Pie Chart">
+  <!-- QuickChart مع ألوان محسّنة -->
+  <img src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'PHP'%2C'HTML'%2C'CSS'%2C'JavaScript'%2C'React'%2C'MySQL'%2C'Bootstrap'%2C'Tailwind%20CSS'%2C'Python'%2C'C'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Usage'%2Cdata%3A%5B20%2C10%2C10%2C10%2C10%2C10%2C5%2C5%2C10%2C10%5D%2CbackgroundColor%3A%5B'%23FF6384'%2C'%23FF9F40'%2C'%23FFCD56'%2C'%234BC0C0'%2C'%2361DAFB'%2C'%2300A86B'%2C'%23663399'%2C'%2338B2AC'%2C'%23663399'%2C'%2300599C'%5D%7D%5D%7D%7D" alt="Skills Pie Chart">
 </p>
 
 
