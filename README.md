@@ -2,12 +2,13 @@
 #### I am a **Computer Science student at Helwan University** with a strong foundation in **data structures, object-oriented programming (OOP), and algorithms**.  
 #### I have honed my skills in **web development**, specializing in **front-end technologies** and some **back-end development with PHP**.  
 #### I have worked on various **projects**, including:  
-  - A **hospital website** 🏥  
+  - A **hospital website** 🏥
+  - A **Hospital Management System with PHP & MySQL** 🏨💻
   - A **furniture store website** 🛋️  
   - An **informational site about Egypt** 🇪🇬  
-  - A **women's supermarket website (JSMG)** 🛒♀️
-  - A **Landing Page using Tailwind CSS** 🌐
-  - A **Mini Project using React** ⚛️
+  - A **women's supermarket website (JSMG)** 🛒♀️  
+  - A **Landing Page using Tailwind CSS** 🌐  
+  - A **Mini Project using React** ⚛️  
     
 I am passionate about **hard work, time management, and precision** in everything I do. 💪  
 
@@ -45,6 +46,22 @@ I am passionate about **hard work, time management, and precision** in everythin
 
 
 ---
+## Skills Usage Pie Chart
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['PHP','HTML','CSS','JavaScript','React','MySQL','Bootstrap','Tailwind CSS','Python','C'],
+      datasets:[{
+        label:'Skill Usage',
+        data:[20,10,10,10,10,10,5,5,10,10],
+        backgroundColor:['#777BB4','#E34F26','#1572B6','#F7DF1E','#61DAFB','#005C84','#563D7C','#38B2AC','#3776AB','#00599C']
+      }]
+    }
+  }" alt="Skills Pie Chart">
+</p>
+
+
 
 ###  Random Dev Quote
 <p align="center">
