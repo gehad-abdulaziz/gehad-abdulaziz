@@ -48,12 +48,11 @@ I am passionate about **hard work, time management, and precision** in everythin
 ---
 
 ---
+
 ## Skills Usage Pie Chart
 <p align="center">
-  <!-- QuickChart مع ألوان محسّنة -->
-  <img src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'PHP'%2C'HTML'%2C'CSS'%2C'JavaScript'%2C'React'%2C'MySQL'%2C'Bootstrap'%2C'Tailwind%20CSS'%2C'Python'%2C'C'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Usage'%2Cdata%3A%5B20%2C10%2C10%2C10%2C10%2C10%2C5%2C5%2C10%2C10%5D%2CbackgroundColor%3A%5B'%23FF6384'%2C'%23FF9F40'%2C'%23FFCD56'%2C'%234BC0C0'%2C'%2361DAFB'%2C'%2300A86B'%2C'%23663399'%2C'%2338B2AC'%2C'%23663399'%2C'%2300599C'%5D%7D%5D%7D%7D" alt="Skills Pie Chart">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A'pie'%2Cdata%3A%7Blabels%3A%5B'PHP'%2C'HTML'%2C'CSS'%2C'JavaScript'%2C'React'%2C'MySQL'%2C'Bootstrap'%2C'Tailwind%20CSS'%2C'Python'%2C'C'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Usage'%2Cdata%3A%5B20%2C10%2C10%2C10%2C10%2C10%2C5%2C5%2C10%2C10%5D%2CbackgroundColor%3A%5B'%23FF4500'%2C'%23FFD700'%2C'%231E90FF'%2C'%23FFA500'%2C'%2361DAFB'%2C'%2300CED1'%2C'%238A2BE2'%2C'%2300FA9A'%2C'%23FF69B4'%2C'%2300599C'%5D%2CborderColor%3A'%23ffffff'%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'top'%7D%7D%7D%7D" alt="Skills Pie Chart">
 </p>
-
 
 
 ###  Random Dev Quote
