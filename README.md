@@ -49,9 +49,9 @@ I am passionate about **hard work, time management, and precision** in everythin
 ---
 ## Skills Usage Doughnut Chart
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7B
+  <img src="https://quickchart.io/chart?c={
     type:'doughnut',
-    data:%7B
+    data:{
       labels:['PHP','HTML','CSS','JavaScript','React','MySQL','Bootstrap','Tailwind CSS','Python','C'],
       datasets:[{
         label:'Skill Usage',
@@ -61,8 +61,8 @@ I am passionate about **hard work, time management, and precision** in everythin
           '#00A86B','#663399','#38B2AC','#FFD700','#00599C'
         ]
       }]
-    %7D
-  %7D" alt="Skills Doughnut Chart">
+    }
+  }" alt="Skills Doughnut Chart" width="400">
 </p>
 
 
