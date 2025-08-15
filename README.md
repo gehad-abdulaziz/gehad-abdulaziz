@@ -47,22 +47,10 @@ I am passionate about **hard work, time management, and precision** in everythin
 
 ---
 ---
+---
 ## Skills Usage Doughnut Chart
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'doughnut',
-    data:{
-      labels:['PHP','HTML','CSS','JavaScript','React','MySQL','Bootstrap','Tailwind CSS','Python','C'],
-      datasets:[{
-        label:'Skill Usage',
-        data:[20.5,9.5,10.2,11.3,10.1,10.4,4.8,5.2,9.7,9.3],
-        backgroundColor:[
-          '#FF6384','#FF9F40','#FFCD56','#4BC0C0','#61DAFB',
-          '#00A86B','#663399','#38B2AC','#FFD700','#00599C'
-        ]
-      }]
-    }
-  }" alt="Skills Doughnut Chart" width="400">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%22%2C%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22React%22%2C%22MySQL%22%2C%22Bootstrap%22%2C%22Tailwind%20CSS%22%2C%22Python%22%2C%22C%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%20Usage%22%2C%22data%22%3A%5B20.5%2C9.5%2C10.2%2C11.3%2C10.1%2C10.4%2C4.8%2C5.2%2C9.7%2C9.3%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%23FF9F40%22%2C%22%23FFCD56%22%2C%22%234BC0C0%22%2C%22%2361DAFB%22%2C%22%2300A86B%22%2C%22%23663399%22%2C%22%2338B2AC%22%2C%22%23FFD700%22%2C%22%2300599C%22%5D%7D%5D%7D%7D" alt="Skills Doughnut Chart" width="400">
 </p>
 
 
