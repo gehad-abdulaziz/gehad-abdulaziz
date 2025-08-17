@@ -54,7 +54,6 @@ I am passionate about **hard work, time management, and precision** in everythin
 </p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gehad-abdulaziz&layout=compact&theme=radical)
 
 ###  Random Dev Quote
 <p align="center">
