@@ -1,15 +1,15 @@
-## 🧠 About Me
+##  About Me
 
 I am a **Computer Science student at Helwan University** with a growing interest in **Machine Learning and Data Science**.  
 I am currently in the learning and exploration stage of the ML track, building my skills through **hands-on projects and continuous practice**.
 
-### 🚀 Projects Highlights
+###  Projects Highlights
 - **Virus B Detection** — Graduation Project (DEPI)  
 - **Customer Churn Prediction** — Graduation Project (NTI)  
 - **Full Machine Learning Pipeline on Heart Disease Dataset**  
 - Multiple **Machine Learning projects** from university coursework  
 
-### 🛠 What I’m Learning & Practicing
+###  What I’m Learning & Practicing
 - Data cleaning and preprocessing  
 - Feature engineering  
 - Model training, evaluation, and improvement  
