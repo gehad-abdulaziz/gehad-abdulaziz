@@ -1,18 +1,25 @@
-##  About Me
-#### I am a **Computer Science student at Helwan University** with a strong foundation in **data structures, object-oriented programming (OOP), and algorithms**.  
-#### I have honed my skills in **web development**, specializing in **front-end technologies** and some **back-end development with PHP**.  
-#### I have worked on various **projects**, including:  
-  - A **hospital website** 🏥
-  - A **Hospital Management System with PHP & MySQL** 🏨💻
-  - A **furniture store website** 🛋️  
-  - An **informational site about Egypt** 🇪🇬  
-  - A **women's supermarket website (JSMG)** 🛒♀️  
-  - A **Landing Page using Tailwind CSS** 🌐  
-  - A **Mini Project using React** ⚛️  
-    
-I am passionate about **hard work, time management, and precision** in everything I do. 💪  
+## 🧠 About Me
 
----
+I am a **Computer Science student at Helwan University** with a growing interest in **Machine Learning and Data Science**.  
+I am currently in the learning and exploration stage of the ML track, building my skills through **hands-on projects and continuous practice**.
+
+### 🚀 Projects Highlights
+- **Virus B Detection** — Graduation Project (DEPI)  
+- **Customer Churn Prediction** — Graduation Project (NTI)  
+- **Full Machine Learning Pipeline on Heart Disease Dataset**  
+- Multiple **Machine Learning projects** from university coursework  
+
+### 🛠 What I’m Learning & Practicing
+- Data cleaning and preprocessing  
+- Feature engineering  
+- Model training, evaluation, and improvement  
+- Working with Python and common ML libraries  
+
+Alongside ML, I also have a solid background in  
+**Data Structures, OOP, Algorithms**, and **Web Development** (Front-End + basic Back-End with PHP & MySQL).
+
+I’m passionate about continuous learning, building real projects, and improving my skills every day. 🌱
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gehad-abdulaziz&label=Profile%20views&color=0e75b6&style=flat" alt="gehad-abdulaziz" /> 
 </p>
