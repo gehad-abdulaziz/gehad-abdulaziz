@@ -13,28 +13,18 @@
 
 ## 🚀 About Me
 
-```python
-class GehadAbdulaziz:
-    def __init__(self):
-        self.name = "Gehad Abdulaziz"
-        self.role = "Software Engineer | Data Scientist"
-        self.education = "Computer Science @ Helwan University"
-        self.location = "Egypt 🇪🇬"
-        self.passions = ["Machine Learning", "Data Science", "Web Development"]
-        self.current_focus = "Deep Learning & NLP"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🌟")
+🎓 **Computer Science Student @ Helwan University** passionate about transforming data into actionable insights and building intelligent AI systems.
 
-me = GehadAbdulaziz()
-me.say_hi()
-```
+📊 **Data Scientist** specializing in Machine Learning, Deep Learning, and Statistical Analysis. I turn complex data into meaningful stories and powerful predictive models.
 
-🎓 **Computer Science Student** passionate about transforming data into actionable insights and building intelligent systems.
+🤖 **Machine Learning Engineer** with hands-on experience in:
+- Classification & Regression Models
+- Computer Vision (Object Detection, Image Classification)
+- Natural Language Processing (Text Classification, Sentiment Analysis)
+- Clustering & Dimensionality Reduction
+- Neural Networks & Deep Learning
 
-🔬 **Machine Learning Enthusiast** with hands-on experience in classification, regression, clustering, computer vision, and NLP.
-
-💻 **Full-Stack Developer** skilled in creating user-friendly web applications with modern technologies.
+💻 **Web Developer** with solid skills in Front-End and Back-End development, creating user-friendly applications alongside my data science work.
 
 ---
 
@@ -48,6 +38,14 @@ me.say_hi()
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -108,7 +106,7 @@ me.say_hi()
 - 🌲 Random Forest, SVM, Logistic Regression
 - 📊 K-Means & Hierarchical Clustering
 
-[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Full-Machine-Learning-Pipeline-on-Heart-Disease-Dataset)
+[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/-Heart-Disease-Prediction)
 
 </td>
 <td width="50%">
@@ -132,10 +130,12 @@ me.say_hi()
 ### 🖼️ Computer Vision Projects
 **Object Detection & Image Classification**
 
-- 🐕🐈 Dog vs Cat Classifier
-- 👤 Human Face Detection
-- 🔢 MNIST Digit Recognition
-- 🧠 CNN & Transfer Learning
+- 🐕🐈 Dog vs Cat Classifier (CNN)
+- 👤 Human Face Detection (OpenCV)
+- 🔢 MNIST Digit Recognition (98%+ Accuracy)
+- 🧠 Transfer Learning & Fine-tuning
+
+[![Repo](https://img.shields.io/badge/View_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz?tab=repositories&q=&type=&language=jupyter+notebook)
 
 </td>
 <td width="50%">
@@ -143,10 +143,41 @@ me.say_hi()
 ### 💬 NLP & Text Analysis
 **Natural Language Processing**
 
-- 🆘 Disaster Tweets Classification
+- 🆘 Disaster Tweets Classification (Kaggle)
 - 📝 Text Preprocessing & Tokenization
 - 🎯 Sentiment Analysis
-- 🔤 Feature Extraction (TF-IDF, Word2Vec)
+- 🔤 Feature Extraction (TF-IDF, Word Embeddings)
+
+[![Repo](https://img.shields.io/badge/View_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Natural-Language-Processing-with-Disaster-Tweets)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚢 Titanic Survival Prediction
+**Kaggle Competition Project**
+
+- 📊 Comprehensive EDA & Visualization
+- 🔧 Feature Engineering & Selection
+- 🤖 Ensemble Methods
+- 📈 Model Evaluation & Optimization
+
+[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Titanic-ML)
+
+</td>
+<td width="50%">
+
+### 🩺 Diabetes Prediction
+**EDA & Feature Engineering**
+
+- 🔬 Medical Dataset Analysis
+- 📊 Statistical Analysis & Visualization
+- 🎯 Predictive Modeling
+- ⚖️ Handling Imbalanced Data
+
+[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Diabetes-Prediction-EDA-Feature-Engineering-Stack)
 
 </td>
 </tr>
@@ -158,14 +189,21 @@ me.say_hi()
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gehad-abdulaziz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gehad-abdulaziz&layout=compact&langs_count=8&theme=radical"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gehad-abdulaziz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gehad-abdulaziz&layout=compact&langs_count=10&theme=radical&hide_border=true)
   
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gehad-abdulaziz&theme=radical)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=gehad-abdulaziz&theme=radical&hide_border=true)
+  
+</div>
+
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=gehad-abdulaziz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
   
 </div>
 
