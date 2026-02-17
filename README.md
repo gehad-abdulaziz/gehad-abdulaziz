@@ -189,19 +189,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gehad-abdulaziz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gehad-abdulaziz&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=gehad-abdulaziz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gehad-abdulaziz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy" />
 </p>
 
 ---
