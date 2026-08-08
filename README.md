@@ -1,272 +1,169 @@
-# Hi there, I'm Gehad Abdulaziz 👋
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Web+Developer+%7C+Problem+Solver;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Intelligent+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=gehad-abdulaziz&color=blueviolet&style=flat-square)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gehad-abdulaziz-228973287)
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,100:0EA5E9&height=220&section=header&text=Gehad%20Abdulaziz&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=NLP%20%26%20LLM%20Engineer%20%7C%20Building%20Trustworthy%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<a href="https://linkedin.com/in/gehad-abdulaziz-228973287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gehadabdelaziz179@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.kaggle.com/gehadabdulaziz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=gehad-abdulaziz&style=for-the-badge&color=6B46C1&label=PROFILE+VIEWS"/>
+
 </div>
 
----
+<br>
 
-## About Me
+```py
+class NLPEngineer:
+    def __init__(self):
+        self.name        = "Gehad Abdulaziz Ibrahim"
+        self.role         = "NLP Engineer · LLM & Generative AI"
+        self.base         = "Giza, Egypt 🇪🇬"
+        self.education    = "B.Sc. Computer Science (AI Track) — Helwan University, GPA 3.84"
+        self.focus        = ["Confidence-Aware RAG", "Multi-Agent Systems", "Speech Intelligence"]
+        self.currently_at = "DEPI — Agentic AI & GenAI System Developer Trainee"
 
-**Computer Science Student @ Helwan University** passionate about transforming data into actionable insights and building intelligent AI systems.
+    def philosophy(self):
+        return "I don't just build models that answer — I build systems that know when NOT to."
 
-**Data Scientist** specializing in Machine Learning, Deep Learning, and Statistical Analysis. I turn complex data into meaningful stories and powerful predictive models.
-
-**Machine Learning Engineer** with hands-on experience in:
-- Classification & Regression Models
-- Computer Vision (Object Detection, Image Classification)
-- Natural Language Processing (Text Classification, Sentiment Analysis)
-- Clustering & Dimensionality Reduction
-- Neural Networks & Deep Learning
-
-**Web Developer** with solid skills in Front-End and Back-End development, creating user-friendly applications alongside my data science work.
-
----
-
-## Tech Stack
-
-### Data Science & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Customer Churn Prediction
-**Identifying At-Risk Customers Using Advanced ML**
-
-- Advanced EDA & Feature Engineering
-- Multiple Classification Models
-- Model Optimization & Hyperparameter Tuning
-- 95%+ Accuracy Achievement
-
-[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Customer-churn-prediction)
-
-</td>
-<td width="50%">
-
-### Virus B Detection
-**DEPI Graduation Project**
-
-- Medical Image Analysis
-- Deep Learning for Disease Detection
-- Data Preprocessing Pipeline
-- Team Collaboration
-
-[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Heart Disease Prediction
-**Complete ML Pipeline**
-
-- UCI Heart Disease Dataset
-- Full Pipeline: Preprocessing → Training → Evaluation
-- Random Forest, SVM, Logistic Regression
-- K-Means & Hierarchical Clustering
-
-[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/-Heart-Disease-Prediction)
-
-</td>
-<td width="50%">
-
-### Hospital Management System
-**PHP & MySQL Web Application**
-
-- Patient & Doctor Management
-- Appointment Scheduling
-- Medicine Tracking
-- User-Friendly Interface
-
-[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Hospital-DB-with-PHP-UI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Computer Vision Projects
-**Object Detection & Image Classification**
-
-- Dog vs Cat Classifier (CNN)
-- Human Face Detection (OpenCV)
-- MNIST Digit Recognition (98%+ Accuracy)
-- Transfer Learning & Fine-tuning
-
-[![Repo](https://img.shields.io/badge/View_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz?tab=repositories&q=&type=&language=jupyter+notebook)
-
-</td>
-<td width="50%">
-
-### NLP & Text Analysis
-**Natural Language Processing**
-
-- Disaster Tweets Classification (Kaggle)
-- Text Preprocessing & Tokenization
-- Sentiment Analysis
-- Feature Extraction (TF-IDF, Word Embeddings)
-
-[![Repo](https://img.shields.io/badge/View_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Natural-Language-Processing-with-Disaster-Tweets)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Titanic Survival Prediction
-**Kaggle Competition Project**
-
-- Comprehensive EDA & Visualization
-- Feature Engineering & Selection
-- Ensemble Methods
-- Model Evaluation & Optimization
-
-[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Titanic-ML)
-
-</td>
-<td width="50%">
-
-### Diabetes Prediction
-**EDA & Feature Engineering**
-
-- Medical Dataset Analysis
-- Statistical Analysis & Visualization
-- Predictive Modeling
-- Handling Imbalanced Data
-
-[![Repo](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz/Diabetes-Prediction-EDA-Feature-Engineering-Stack)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gehad-abdulaziz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Current Focus
-
-```mermaid
-graph LR
-    A[Learning Journey] --> B[Deep Learning]
-    A --> C[Advanced NLP]
-    A --> D[Computer Vision]
-    B --> E[Neural Networks]
-    B --> F[CNNs & RNNs]
-    C --> G[Transformers]
-    C --> H[BERT & GPT]
-    D --> I[Object Detection]
-    D --> J[Image Segmentation]
+me = NLPEngineer()
 ```
 
-**Currently Learning:**
-- Deep Learning with TensorFlow & PyTorch
-- Advanced NLP Techniques
-- Computer Vision & Object Detection
-- MLOps & Model Deployment
+<br>
+
+## 🧠 About Me
+
+I'm an **AI & NLP Engineer** who builds production-minded systems on top of Large Language Models — not just prompt wrappers, but pipelines that reason about their own confidence before they speak.
+
+- 🔭 Currently engineering **AraCheck**, a bilingual medical RAG assistant with a tiered LLM → RAG → Web-Search escalation pipeline that only reaches for more evidence when it's genuinely unsure
+- 🎙️ Building **clinical speech intelligence** — ASR + zero-shot NER pipelines that transcribe *and* understand medical audio
+- 🧩 Fascinated by **multi-task learning** — training one shared encoder to handle four different language-understanding problems at once
+- 🌱 Deep in an **Agentic AI & GenAI System Developer** track at DEPI — LangGraph, multi-agent orchestration, deployment & monitoring
+- 🗣️ Native Arabic speaker building **Arabic-first NLP** — because most of the field forgets my language exists
+- 💬 Ask me about: RAG architecture, confidence calibration, transformer internals, or why your chatbot is hallucinating
 
 ---
 
-## Achievements & Certifications
-
-- **DEPI Graduation Project** - Virus B Detection
-- **NTI Graduation Project** - Customer Churn Prediction
-- **Multiple Machine Learning Coursework Projects**
-- **NASA Hackathon Participant**
-- **50+ ML & Web Development Projects**
-
----
-
-## Activity Graph
-
-[![Gehad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gehad-abdulaziz&theme=react-dark&hide_border=true)](https://github.com/gehad-abdulaziz)
-
----
-
-## 💡 Random Dev Quote
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**LLMs & Agentic AI**
+<br>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRA%2FQLoRA-7C3AED?style=for-the-badge"/>
+
+**Deep Learning & NLP**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+**Speech & Multimodal**
+<br>
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vision--Language%20Models-4B5563?style=for-the-badge"/>
+
+**Serving & Tooling**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🚀 Featured Work
+
+### 🩺 AraCheck — Bilingual Medical RAG Assistant
+**Confidence-aware retrieval so the model knows when to look further before it answers**
+
+An agentic pipeline (LangGraph) that escalates a medical query through LLM → RAG → web-search — only climbing tiers when confidence is genuinely low, cutting down on hallucinated answers. Built the retrieval core: `BAAI/bge-m3` embeddings, Qdrant vector search, cross-encoder reranking, and a **margin-based confidence score** instead of a fixed similarity cutoff. Helped fold voice (Whisper) and image understanding (VLM) into one chat pipeline with numbered source citations.
+
+`Python` `FastAPI` `LangGraph` `Qdrant` `Hugging Face` `Groq API` `Next.js`
+
+---
+
+### 🎙️ Medical ASR v6 — Multi-Specialty Clinical Speech Recognition
+**Transcription that understands what it just heard**
+
+End-to-end pipeline pairing `faster-whisper large-v3` with **zero-shot NER (GLiNER)** to pull 9 clinical entity types with no task-specific retraining. Auto-detects the medical specialty from the audio to route it to specialty-aware prompts, and grades every transcript A–D on ASR/NER confidence for clinical review. Shipped as a Streamlit app with live recording, file upload, and confidence-highlighted text.
+
+`Python` `faster-whisper` `GLiNER` `Hugging Face` `Streamlit`
+
+---
+
+### 🔗 Multi-Task BiRNN — One Encoder, Four GLUE Tasks
+**73.45% accuracy sharing a single brain across sentiment, paraphrase, duplicate-detection & NLI**
+
+A shared bidirectional RNN with an ESIM-style soft-alignment (attention) layer, trained jointly across SST-2, MRPC, QQP, and MNLI. Got there through staged improvements — added capacity, soft alignment, more data — and stabilized training with label smoothing, gradient clipping, and stochastic weight averaging. Packaged as a live Gradio demo.
+
+`PyTorch` `GloVe` `Gradio`
+
+---
+
+### 🔍 Food Reviews Semantic Search Engine
+**Search by meaning, not keywords — over 3,000 Amazon food reviews**
+
+Led a 6-member team and owned the data pipeline for a semantic search engine, then benchmarked a TF-IDF/cosine baseline against Sentence-Transformer embeddings using Precision@5.
+
+`Python` `scikit-learn` `Sentence-Transformers`
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gehad-abdulaziz-228973287)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-  
-  <br>
-  
-  **💌 Open to collaborations, freelance projects, and interesting opportunities!**
-  
-  <br>
-  
-  ![](https://komarev.com/ghpvc/?username=gehad-abdulaziz&color=blueviolet&style=for-the-badge)
-  
+
+[![More Projects](https://img.shields.io/badge/See_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gehad-abdulaziz?tab=repositories)
+
 </div>
 
 ---
 
+## 🎓 Path So Far
+
+```text
+2023 ─── B.Sc. Computer Science (AI Track) begins @ Helwan University
+2025 ─── Data Science Trainee @ DEPI — Python, ML, MLOps foundations
+2025 ─── Machine Learning — DEY Upskilling Programs
+2026 ─── Deep Learning for Computer Vision — DEY Upskilling Programs
+2026 ─── NLP 90-Hour Track @ NTI — Transformers built from scratch, Arabic NLP
+2026 ─── AI & Data Science Trainee — Agentic AI & GenAI System Developer @ DEPI  ← now
+2027 ─── Graduating — focus: NLP & LLMs
+```
+
+**Currently building:** Confidence-aware agentic RAG · Multi-agent orchestration with LangGraph · Production LLM deployment & monitoring
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  
-  ### ⭐ Show some love by starring some repositories!
-  
-  **"Data is the new oil, but insights are the new gold." 🌟**
-  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gehad-abdulaziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=38BDF8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gehad-abdulaziz&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gehad-abdulaziz&theme=tokyonight&hide_border=true&ring=38BDF8&fire=A78BFA"/>
+
+</div>
+
+---
+
+## 🌐 Let's Talk NLP
+
+<div align="center">
+
+I'm always up for collaborating on RAG systems, agentic pipelines, or Arabic NLP — reach out.
+
+<a href="https://linkedin.com/in/gehad-abdulaziz-228973287"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gehadabdelaziz179@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6B46C1&height=100&section=footer" width="100%"/>
+
 </div>
