@@ -68,51 +68,6 @@ I'm an **AI & NLP Engineer** who builds production-minded systems on top of Larg
 
 > 💬 **Ask me about:** RAG architecture · confidence calibration · transformer internals · multi-agent orchestration · why your chatbot is hallucinating
 
----
-
-## 🏗️ How AraCheck Thinks — Confidence Before Confidence
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    Q["🗣️ Patient Query — text / voice / image"] --> T1
-
-    subgraph T1["Tier 1 — Direct LLM"]
-        direction LR
-        A1[Answer + self-confidence score]
-    end
-
-    T1 -->|"confidence high"| OUT
-    T1 -->|"confidence low"| T2
-
-    subgraph T2["Tier 2 — RAG Retrieval"]
-        direction LR
-        A2["bge-m3 embeddings → Qdrant search → cross-encoder rerank → margin-based confidence"]
-    end
-
-    T2 -->|"confidence high"| OUT
-    T2 -->|"still low"| T3
-
-    subgraph T3["Tier 3 — Web Search"]
-        direction LR
-        A3[Live evidence retrieval]
-    end
-
-    T3 --> OUT["✅ Answer with numbered source citations"]
-
-    style Q fill:#6B46C1,color:#fff
-    style OUT fill:#0EA5E9,color:#fff
-    style T1 fill:#1e1b2e,color:#fff
-    style T2 fill:#1e1b2e,color:#fff
-    style T3 fill:#1e1b2e,color:#fff
-```
-
-*Escalation only happens when the previous tier isn't confident enough — reducing unsupported, hallucinated answers by design.*
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
