@@ -219,18 +219,34 @@ Led a 6-member team and owned the data pipeline for a semantic search engine, th
 ---
 
 ## 🏆 Trophies & Stats
+## 🏆 Trophies & Stats
 
 <div align="center">
 
+<!-- 🔧 Self-hosted fork: https://github.com/ryo-ma/github-profile-trophy -->
+<!-- Once deployed on Vercel, replace the URL below with your own instance -->
 <img src="https://github-profile-trophy.vercel.app/?username=gehad-abdulaziz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<!-- Self-hosted version once deployed:
+<img src="https://your-vercel-username-github-profile-trophy.vercel.app/?username=gehad-abdulaziz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+-->
 
 <br>
 
+<!-- 🔧 Self-hosted fork: https://github.com/anuraghazra/github-readme-stats -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=gehad-abdulaziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=38BDF8"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gehad-abdulaziz&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&langs_count=8"/>
+<!-- Self-hosted versions once deployed:
+<img height="165" src="https://your-vercel-username-github-readme-stats.vercel.app/api?username=gehad-abdulaziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=38BDF8"/>
+<img height="165" src="https://your-vercel-username-github-readme-stats.vercel.app/api/top-langs/?username=gehad-abdulaziz&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&langs_count=8"/>
+-->
 
+<!-- 🔧 Self-hosted fork: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gehad-abdulaziz&theme=tokyonight&hide_border=true&ring=38BDF8&fire=A78BFA"/>
+<!-- Self-hosted version once deployed:
+<img src="https://your-vercel-username-github-readme-streak-stats.vercel.app/?user=gehad-abdulaziz&theme=tokyonight&hide_border=true&ring=38BDF8&fire=A78BFA"/>
+-->
 
+<!-- This one (Ashutosh00710/github-readme-activity-graph) commonly stays stable, no change needed -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gehad-abdulaziz&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=38BDF8&point=ffffff" width="100%"/>
 
 </div>
