@@ -78,44 +78,27 @@ I'm an **AI & NLP Engineer** who builds production-minded systems on top of Larg
 
 ```mermaid
 graph TD
-    START(["🌱 Started with Python and Data"]) --> ML
+    A[🌱 Python and Data] --> B[📊 Machine Learning]
+    B --> C[🧠 Deep Learning]
+    C --> D[👁️ Computer Vision]
+    D --> E[💬 NLP]
+    E --> F[🎙️ Speech and Multimodal]
+    E --> G[📚 Retrieval-Augmented Generation]
+    E --> H[🔧 LLM Fine-Tuning]
+    E --> I[🤖 Multi-Agent Systems]
 
-    ML["📊 Machine Learning
-    Regression · Classification · Clustering · PCA"] --> DL
-
-    DL["🧠 Deep Learning
-    Neural Networks · CNNs · Transfer Learning"] --> CV
-
-    CV["👁️ Computer Vision
-    Image Classification · Object Detection · Medical Imaging"] --> NLP
-
-    NLP["💬 NLP — where it clicked
-    RNN → LSTM → GRU → Transformer built from scratch"] --> SPEECH
-    NLP --> RAG
-    NLP --> LLM
-    NLP --> AGENT
-
-    SPEECH["🎙️ Speech and Multimodal
-    ASR (Whisper) · OCR · Vision-Language Models"]
-    RAG["📚 Retrieval-Augmented Generation
-    Qdrant · Embeddings · Confidence Scoring"]
-    LLM["🔧 LLM Fine-Tuning
-    LoRA / QLoRA · Prompt Engineering"]
-    AGENT["🤖 Multi-Agent Systems
-    LangGraph · Agentic Pipelines"]
-
-    style START fill:#0EA5E9,color:#fff,stroke:#0EA5E9
-    style ML fill:#3730a3,color:#fff,stroke:#3730a3
-    style DL fill:#5b21b6,color:#fff,stroke:#5b21b6
-    style CV fill:#7c3aed,color:#fff,stroke:#7c3aed
-    style NLP fill:#9333ea,color:#fff,stroke:#9333ea
-    style SPEECH fill:#c026d3,color:#fff,stroke:#c026d3
-    style RAG fill:#db2777,color:#fff,stroke:#db2777
-    style LLM fill:#db2777,color:#fff,stroke:#db2777
-    style AGENT fill:#db2777,color:#fff,stroke:#db2777
+    style A fill:#0EA5E9,color:#fff,stroke:#0EA5E9
+    style B fill:#3730a3,color:#fff,stroke:#3730a3
+    style C fill:#5b21b6,color:#fff,stroke:#5b21b6
+    style D fill:#7c3aed,color:#fff,stroke:#7c3aed
+    style E fill:#9333ea,color:#fff,stroke:#9333ea
+    style F fill:#c026d3,color:#fff,stroke:#c026d3
+    style G fill:#db2777,color:#fff,stroke:#db2777
+    style H fill:#db2777,color:#fff,stroke:#db2777
+    style I fill:#db2777,color:#fff,stroke:#db2777
 ```
 
-*Every stage still lives in my toolbox — NLP is where the path forked into what I do now: RAG, LLM fine-tuning, and agentic systems, with speech & multimodal AI running alongside.*
+*Every stage still lives in my toolbox — NLP is where the path forked into what I do now: RAG, LLM fine-tuning, and agentic systems, with speech and multimodal AI running alongside.*
 
 </div>
 
