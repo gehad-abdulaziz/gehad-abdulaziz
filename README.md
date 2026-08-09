@@ -233,7 +233,6 @@ Led a 6-member team and owned the data pipeline for a semantic search engine, th
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gehad-abdulaziz&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=38BDF8&point=ffffff" width="100%"/>
 
 </div>
-
 ---
 
 ## 🗣️ Languages
