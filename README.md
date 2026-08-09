@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,50:9333EA,100:0EA5E9&height=230&section=header&text=Gehad%20Abdulaziz&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=NLP%20%26%20LLM%20Engineer%20%7C%20Building%20Trustworthy%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,50:9333EA,100:0EA5E9&height=230&section=header&text=Gehad%20Abdulaziz&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=NLP%20%26%20LLM%20Engineer%20%7C%20Building%20Trustworthy%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gehad Abdulaziz — NLP & LLM Engineer"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Confidence-Aware+RAG+Pipelines;Multi-Agent+Systems+with+LangGraph;Bilingual+Arabic%2FEnglish+NLP;Speech+Intelligence+%26+Clinical+NER;From+Classical+ML+to+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Confidence-Aware+RAG+Pipelines;Multi-Agent+Systems+with+LangGraph;Bilingual+Arabic%2FEnglish+NLP;Speech+Intelligence+%26+Clinical+NER;From+Classical+ML+to+Agentic+AI" alt="Confidence-Aware RAG Pipelines | Multi-Agent Systems | Bilingual NLP" />
 </a>
 
 <br>
@@ -16,8 +16,8 @@
 
 <br><br>
 
-<!-- 🐍 Contribution snake — activates automatically after the included workflow runs once, see setup note near the bottom -->
-<img src="https://raw.githubusercontent.com/gehad-abdulaziz/gehad-abdulaziz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- 🐍 Contribution snake — this will show as a broken image until the snake.yml workflow has been run once (see setup steps below) -->
+<img src="https://raw.githubusercontent.com/gehad-abdulaziz/gehad-abdulaziz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
 
 </div>
 
@@ -78,7 +78,7 @@ I'm an **AI & NLP Engineer** who builds production-minded systems on top of Larg
 
 ```mermaid
 graph TD
-    START(["🌱 Started with Python & Data"]) --> ML
+    START(["🌱 Started with Python and Data"]) --> ML
 
     ML["📊 Machine Learning
     Regression · Classification · Clustering · PCA"] --> DL
@@ -95,7 +95,7 @@ graph TD
     NLP --> LLM
     NLP --> AGENT
 
-    SPEECH["🎙️ Speech & Multimodal
+    SPEECH["🎙️ Speech and Multimodal
     ASR (Whisper) · OCR · Vision-Language Models"]
     RAG["📚 Retrieval-Augmented Generation
     Qdrant · Embeddings · Confidence Scoring"]
