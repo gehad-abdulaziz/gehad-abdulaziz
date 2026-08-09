@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,50:9333EA,100:0EA5E9&height=230&section=header&text=Gehad%20Abdulaziz&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=NLP%20%26%20LLM%20Engineer%20%7C%20Building%20Trustworthy%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gehad Abdulaziz - NLP and LLM Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,50:9333EA,100:0EA5E9&height=230&section=header&text=Gehad%20Abdulaziz&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=NLP%20and%20LLM%20Engineer%20%7C%20Building%20Trustworthy%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gehad Abdulaziz - NLP and LLM Engineer"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Confidence-Aware+RAG+Pipelines;Multi-Agent+Systems+with+LangGraph;Bilingual+Arabic%2FEnglish+NLP;Speech+Intelligence+%26+Clinical+NER;From+Classical+ML+to+Agentic+AI" alt="Confidence-Aware RAG Pipelines | Multi-Agent Systems | Bilingual NLP" />
