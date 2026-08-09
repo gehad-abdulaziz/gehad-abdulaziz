@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,50:9333EA,100:0EA5E9&height=230&section=header&text=Gehad%20Abdulaziz&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=NLP%20%26%20LLM%20Engineer%20%7C%20Building%20Trustworthy%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Confidence-Aware+RAG+Pipelines;Multi-Agent+Systems+with+LangGraph;Bilingual+Arabic%2FEnglish+NLP;Speech+Intelligence+%26+Clinical+NER;Turning+Silence+Into+%22I'm+Not+Sure%2C+Let+Me+Check%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Confidence-Aware+RAG+Pipelines;Multi-Agent+Systems+with+LangGraph;Bilingual+Arabic%2FEnglish+NLP;Speech+Intelligence+%26+Clinical+NER;From+Classical+ML+to+Agentic+AI" alt="Typing SVG" />
 </a>
 
 <br>
@@ -13,6 +13,11 @@
 <a href="https://www.kaggle.com/gehadabdulaziz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/gehad-abdulaziz?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=gehad-abdulaziz&style=for-the-badge&color=6B46C1&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<!-- 🐍 Contribution snake — activates automatically after the included workflow runs once, see setup note near the bottom -->
+<img src="https://raw.githubusercontent.com/gehad-abdulaziz/gehad-abdulaziz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -31,9 +36,6 @@ class NLPEngineer:
 
     def philosophy(self):
         return "I don't just build models that answer — I build systems that know when NOT to."
-
-    def currently_building(self):
-        return "AraCheck: a bilingual medical RAG assistant that escalates only when it's unsure."
 
 me = NLPEngineer()
 print(me.philosophy())
@@ -68,6 +70,56 @@ I'm an **AI & NLP Engineer** who builds production-minded systems on top of Larg
 
 > 💬 **Ask me about:** RAG architecture · confidence calibration · transformer internals · multi-agent orchestration · why your chatbot is hallucinating
 
+---
+
+## 🗺️ My Learning Journey — From Classical ML to Agentic AI
+
+<div align="center">
+
+```mermaid
+graph TD
+    START(["🌱 Started with Python & Data"]) --> ML
+
+    ML["📊 Machine Learning
+    Regression · Classification · Clustering · PCA"] --> DL
+
+    DL["🧠 Deep Learning
+    Neural Networks · CNNs · Transfer Learning"] --> CV
+
+    CV["👁️ Computer Vision
+    Image Classification · Object Detection · Medical Imaging"] --> NLP
+
+    NLP["💬 NLP — where it clicked
+    RNN → LSTM → GRU → Transformer built from scratch"] --> SPEECH
+    NLP --> RAG
+    NLP --> LLM
+    NLP --> AGENT
+
+    SPEECH["🎙️ Speech & Multimodal
+    ASR (Whisper) · OCR · Vision-Language Models"]
+    RAG["📚 Retrieval-Augmented Generation
+    Qdrant · Embeddings · Confidence Scoring"]
+    LLM["🔧 LLM Fine-Tuning
+    LoRA / QLoRA · Prompt Engineering"]
+    AGENT["🤖 Multi-Agent Systems
+    LangGraph · Agentic Pipelines"]
+
+    style START fill:#0EA5E9,color:#fff,stroke:#0EA5E9
+    style ML fill:#3730a3,color:#fff,stroke:#3730a3
+    style DL fill:#5b21b6,color:#fff,stroke:#5b21b6
+    style CV fill:#7c3aed,color:#fff,stroke:#7c3aed
+    style NLP fill:#9333ea,color:#fff,stroke:#9333ea
+    style SPEECH fill:#c026d3,color:#fff,stroke:#c026d3
+    style RAG fill:#db2777,color:#fff,stroke:#db2777
+    style LLM fill:#db2777,color:#fff,stroke:#db2777
+    style AGENT fill:#db2777,color:#fff,stroke:#db2777
+```
+
+*Every stage still lives in my toolbox — NLP is where the path forked into what I do now: RAG, LLM fine-tuning, and agentic systems, with speech & multimodal AI running alongside.*
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -199,16 +251,6 @@ Led a 6-member team and owned the data pipeline for a semantic search engine, th
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gehad-abdulaziz&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=38BDF8&point=ffffff" width="100%"/>
 
 </div>
-
-<details>
-<summary><b>🐍 Contribution snake (click to expand — setup note below)</b></summary>
-<br>
-
-<img src="https://raw.githubusercontent.com/gehad-abdulaziz/gehad-abdulaziz/output/github-contribution-grid-snake.svg" width="100%"/>
-
-*This animation renders automatically once the included GitHub Action workflow runs — see setup notes below the README.*
-
-</details>
 
 ---
 
